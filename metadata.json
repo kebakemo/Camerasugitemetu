@@ -1,0 +1,10 @@
+{
+  "name": "サイレントカメラ - 完全無音撮影 Webアプリ",
+  "description": "シャッター音を一切鳴らさずに写真を撮影できるWebカメラ。赤ちゃんの寝顔、ペット、静かなカフェ、講義メモに最適。フィルター・連写・タイマー機能付き。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
